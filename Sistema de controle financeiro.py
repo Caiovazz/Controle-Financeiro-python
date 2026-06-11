@@ -193,4 +193,4 @@ while True:
         break
 
     else:
-        print('Opcção invalida! Tente novamente!')
+        print('Opção invalida! Tente novamente!')
